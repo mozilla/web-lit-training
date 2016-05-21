@@ -20,3 +20,7 @@ Make sure you're on your own forked version of this repo (you'll know it's your 
 Click the README.md file
 
 ![readme](https://cloud.githubusercontent.com/assets/8389648/15445431/54b48ddc-1eb3-11e6-86e3-af5df22f7c34.png)
+
+Click the pencil icon to edit
+
+![pencil](https://cloud.githubusercontent.com/assets/8389648/15445468/f0910442-1eb3-11e6-9f52-fefcc1c63031.png)
