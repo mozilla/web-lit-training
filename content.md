@@ -1,5 +1,7 @@
 #Projects you can make
 
+Below are three projects you can choose from. Each project will allow you to practice some of the skills you've learned so far.
+
 ## Bucket List
 Create and share a list of things you've done and things you want to do. For this project, you'll use markdown, an easy-to-read and easy-to-write format that allows you to create web content without writing html. 
 
