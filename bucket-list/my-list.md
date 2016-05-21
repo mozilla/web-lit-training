@@ -2,7 +2,7 @@
 
 ## Family and friends
  * Save for kids' college education
- * Organize a family portrait
+ * ~~Organize a family portrait~~
  * Throw a surprise party for a loved one
 
 ## Travel and Adventure
@@ -11,7 +11,7 @@
  * Dive the Great Barrier Reef
  
 ## Career
- * Learn coding skills
+ * ~~Learn coding skills~~
  * Get a job in technology
 
 ## Service and volunteering
