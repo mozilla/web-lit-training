@@ -1,11 +1,11 @@
 #Projects you can make
 
 ## Bucket List
-Create a share a list of things you've done and things you want to do. For this project, you'll use markdown, an easy-to-read and easy-to-write format that allows you to create web content without writing html. 
+Create and share a list of things you've done and things you want to do. For this project, you'll use markdown, an easy-to-read and easy-to-write format that allows you to create web content without writing html. 
 
 It will look something like this:
 
-![bucket-list](https://cloud.githubusercontent.com/assets/8389648/15445153/1912fde4-1eaf-11e6-9e4c-457b32c0ea14.png)
+![bucket-list](https://cloud.githubusercontent.com/assets/8389648/15445229/749558e6-1eb0-11e6-920c-4a2ecbacfbd7.png)
 
 To edit the bucket list and add your own items:
  1. Go to your fork of this repo
