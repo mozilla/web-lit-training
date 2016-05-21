@@ -27,6 +27,10 @@ Click the pencil icon to edit
 
 Add a line to the README explaining that you've created this repo as part of a web literacy training. Check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and experiment with different styles you can apply using markdown. Have fun!
 
-To save and publish your changes, scroll down and complete the information in the "Commit changes" box. For today, you can commit directly to the gh-pages branch. If you were working collaboratively on a project with others, you would likely create a new branch and submit a pull request for someone else to review.
+## Save and publish your changes
+
+To save and publish your changes, scroll down and complete the information in the "Commit changes" box. Add a note about what you changed. This is an important part of version control—it allowsother people (and even your future self!) to know what changes you made and why. 
+
+For today, you can commit directly to the gh-pages branch, so you can see your changes immediately. If you were working collaboratively on a project with others, you would likely create a new branch and submit a pull request for someone else to review.
 
 ![commit](https://cloud.githubusercontent.com/assets/8389648/15445566/b827b73e-1eb5-11e6-9a14-b4a1dd2e6b8d.png)
