@@ -1,0 +1,128 @@
+body {
+  background-color: #fff;
+  
+  /*This is where you can change the background image. Try to find a large image that represents your business. Search with https://search.creativecommons.org to findimages that are licensed for sharing.*/
+  
+  background-image: url('../images/colored-pencils-2.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height:100%;
+  width:100%;
+  margin-left: 1em;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h1 {
+  font-family: 'Alfa Slab One', serif;
+  font-size: 4em;
+  font-weight: 400, 600;
+  
+}
+
+h2, h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+  font-size: 2.5em;
+  font-weight: 700;
+  margin-bottom: .5em;
+}
+
+h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: .25em;
+  text-decoration: underline;
+}
+
+a, p, ul {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+}
+
+p, ul {
+  font-size: 1em;
+}
+
+/*Image CC0 Public Domain by Alexander Stein from https://www.pexels.com/photo/creative-desk-pens-school-2170/*/
+
+.ebay-icon {
+  list-style-image: url('../images/ebay-icon.png');
+}
+
+.email-icon {
+  list-style-image: url('../images/email-icon.png');
+}
+
+.etsy-icon {
+  list-style-image: url('../images/etsy-icon.png');
+}
+
+.facebook-icon {
+  list-style-image: url('../images/facebook-icon.png');
+}
+
+.github-icon {
+  list-style-image: url('../images/github-icon.png');
+}
+
+.phone-icon {
+  list-style-image: url('../images/phone-icon.png');
+}
+
+.twitter-icon {
+  list-style-image: url('../images/twitter-icon.png');
+}
+
+.cc-by-sa {
+  vertical-align: middle;
+}
+
+#banner{
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  width:90%;
+}
+
+#about {
+  float: left;
+  max-width: 500px;
+  min-width: 300px;
+}
+
+#contact {
+  clear: both;
+  float: left;
+  width:40%;
+}
+
+#bottom-info {
+  top: 3em;
+  float: left;
+  font-size: .8em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 90%;
+  
+}
+
+a:link {
+  color: #000;
+}
+
+a:hover {
+  color: #5F83EE;
+}
+
+a:active, a:visited {
+  color: #806EA3;
+}
