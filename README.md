@@ -29,7 +29,7 @@ Add a line to the README explaining that you've created this repo as part of a w
 
 ## Save and publish your changes
 
-To save and publish your changes, scroll down and complete the information in the "Commit changes" box. Add a note about what you changed. This is an important part of version control—it allowsother people (and even your future self!) to know what changes you made and why. 
+To save and publish your changes, scroll down and complete the information in the "Commit changes" box. Add a note about what you changed. This is an important part of version control—it allows other people (and even your future self!) to know what changes you made and why. 
 
 For today, you can commit directly to the gh-pages branch, so you can see your changes immediately. If you were working collaboratively on a project with others, you would likely create a new branch and submit a pull request for someone else to review.
 
