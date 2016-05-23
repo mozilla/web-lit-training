@@ -29,9 +29,17 @@ To edit the resume and add your own content:
  4. Follow the instructions in the comments to edit each section of the resume. Hint: search for the word "STEP" since each comment is labeled "STEP 1," "STEP 2", etc.
 
 ## Business Front Page
-Create your own page promoting your business.
+Create your own page promoting your business. For this project, you'll edit an html file. It will look something like this:
 
-[View the sample Business Front Page]()
+![business front page](https://cloud.githubusercontent.com/assets/8389648/15478564/f054ab1e-20cf-11e6-92b1-c3fac06816c4.png)
+
+[View the full sample business front page](http://mozilla.github.io/web-lit-training/business-front-page/business-front-page.html)
+
+To edit the page and add your own content:
+ 1. Go to your fork of this repo
+ 2. Navigate to business-front-page -> business-front-page.html 
+ 3. Click the pencil icon to edit the file
+ 4. Follow the instructions in the comments to edit each section of the page. 
 
 
 
