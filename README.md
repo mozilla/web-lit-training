@@ -1,3 +1,5 @@
+![Image test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Practice logo")
+
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
 # New Edits
