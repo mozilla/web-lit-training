@@ -1,11 +1,11 @@
-# My Bucket List
+# My To-Do List
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+## Education
+ * Finish Graduate School and plan for Phd 
+ * Save for Parth's college education
+ * Help Anita for her college.
 
-## Travel and Adventure
+## Travel and Fun
  * Visit Antarctica
  * Go skydiving
  * Dive the Great Barrier Reef
