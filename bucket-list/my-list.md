@@ -1,12 +1,12 @@
-# My Bucket List
+# My Dream List
 
-## Family and friends
- * Save for kids' college education
+## Friends
+ * Save for Bahamas Cruise
  * ~~Organize a family portrait~~
  * Throw a surprise party for a loved one
 
-## Travel and Adventure
- * Visit Antarctica
+## Fitness
+ * Lose 100 lbs.U
  * Go skydiving
  * Dive the Great Barrier Reef
  
