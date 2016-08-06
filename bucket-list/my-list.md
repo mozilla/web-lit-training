@@ -1,16 +1,15 @@
-# My Bucket List
+# My To Do List
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+## Education
+ * Finish javascript online course
+ * Write final paper
+ * Schedule time to talk with teacher
 
-## Travel and Adventure
- * Visit Antarctica
- * Go skydiving
- * Dive the Great Barrier Reef
+## Fitness
+ * Run a 10K
+ * Lift weights 3X/week
  
-## Career
+## Shopping List
  * ~~Learn coding skills~~
  * Get a job in technology
 
