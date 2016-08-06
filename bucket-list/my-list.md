@@ -11,7 +11,7 @@
  * Dive the Great Barrier Reef
  
 ## Career
- * ~~Learn coding skills~~
+ * Learn coding skills
  * Get a job in technology
 
 ## Service and volunteering
