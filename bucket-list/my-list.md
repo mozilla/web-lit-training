@@ -1,7 +1,7 @@
 # My To Do List
 
 ## Education
- * Finish javascript online course
+ * ~~Finish javascript online course~~
  * Write final paper
  * Schedule time to talk with teacher
 
