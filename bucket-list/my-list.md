@@ -1,8 +1,8 @@
 # My Bucket List
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
+## Wive and Kids
+ * Get kids money
+ * Family trip
  * Throw a surprise party for a loved one
 
 ## Travel and Adventure
