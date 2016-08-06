@@ -3,16 +3,16 @@
 ## Wive and Kids
  * Get kids money
  * Family trip
- * Throw a surprise party for a loved one
+ * ~~Throw a surprise party for a loved one~~
 
-## Travel and Adventure
- * Visit Antarctica
- * Go skydiving
- * Dive the Great Barrier Reef
+## ~~Travel and Adventure~~
+ * ~~Visit Antarctica~~
+ * ~~Go skydiving~~
+ * ~~Dive the Great Barrier Reef~~
  
-## Career
+## ~~Career~~
  * ~~Learn coding skills~~
- * Get a job in technology
+ * ~~Get a job in technology~~
 
 ## Service and volunteering
  * Join a nonprofit board
