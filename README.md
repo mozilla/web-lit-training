@@ -1,6 +1,9 @@
+![Image test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Practice logo")
+
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
-
+# New Edits
+## Old Edits
 This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
 
 Participants can fork this repo and then choose a project template to edit on their forked version.
